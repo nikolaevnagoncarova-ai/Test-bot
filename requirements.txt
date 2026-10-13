@@ -1,7 +1,7 @@
-aiogram==3.13.1
-SQLAlchemy==2.0.36
-aiohttp==3.10.10
-APScheduler==3.10.4
-python-dotenv==1.0.1
-curl_cffi==0.7.3
-fake_useragent==1.5.1
+aiogram>=3.13.0
+SQLAlchemy>=2.0.36
+aiohttp>=3.13.0
+APScheduler>=3.10.4
+python-dotenv>=1.0.1
+curl_cffi>=0.7.3
+fake_useragent>=1.5.1
